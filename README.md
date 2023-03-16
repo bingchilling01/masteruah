@@ -101,7 +101,7 @@ y quedaría así:
 - Para copiar un fork de un repositorio ajeno al nuestro se hace clic en el botón fork:
 ![Fork](https://github.com/bingchilling01/masteruah/blob/main/capturas/18fork.png "fork")
 - Y ya estaría en nuestro repositorio:
-![Fork_ported](https://github.com/bingchilling01/masteruah/blob/main/capturas/19forkported.png "fork_ported")
+![Fork_ported](https://github.com/bingchilling01/masteruah/blob/main/capturas/19forkportado.png "fork_ported")
 ## _21. Hacer un pull request_
 - Para hacer un pull request aplicamos cambios en los archivos fuente de nuestro fork, hacemos clic en la pestaña 'Pull requests', luego en 'New request' y al final en 'Create Pull request', y tendremos que esperar a que el autor original acepte nuestros cambios
 ![Pull_Request](https://github.com/bingchilling01/masteruah/blob/main/capturas/20pullrequest.png "Pull_request")
