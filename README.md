@@ -93,3 +93,15 @@ y añadimos a los colaboradores que queramos
 - Para crear una organización, nos metemos en los ajustes de nuestra cuenta y luego en 'Organizations', nos creamos una
 y quedaría así:
 ![Organizacion](https://github.com/bingchilling01/masteruah/blob/main/capturas/15org.png "Organizacion")
+## _18. Equipos en la organización_
+![Equipos](https://github.com/bingchilling01/masteruah/blob/main/capturas/16teams.png "Teams")
+## _19. Crear index.html de la organización_
+![INDEX](https://github.com/bingchilling01/masteruah/blob/main/capturas/17index.png "index.html")
+## _20. Copiar proyectos de otros como forks_
+- Para copiar un fork de un repositorio ajeno al nuestro se hace clic en el botón fork:
+![Fork](https://github.com/bingchilling01/masteruah/blob/main/capturas/18fork.png "fork")
+- Y ya estaría en nuestro repositorio:
+![Fork_ported](https://github.com/bingchilling01/masteruah/blob/main/capturas/19forkported.png "fork_ported")
+## _21. Hacer un pull request_
+- Para hacer un pull request aplicamos cambios en los archivos fuente de nuestro fork, hacemos clic en la pestaña 'Pull requests', luego en 'New request' y al final en 'Create Pull request', y tendremos que esperar a que el autor original acepte nuestros cambios
+![Pull_Request](https://github.com/bingchilling01/masteruah/blob/main/capturas/20pullrequest.png "Pull_request")
