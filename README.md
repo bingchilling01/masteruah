@@ -99,9 +99,16 @@ y quedaría así:
 ![INDEX](https://github.com/bingchilling01/masteruah/blob/main/capturas/17index.png "index.html")
 ## _20. Copiar proyectos de otros como forks_
 - Para copiar un fork de un repositorio ajeno al nuestro se hace clic en el botón fork:
-![Fork](https://github.com/bingchilling01/masteruah/blob/main/capturas/18fork.png "fork")
+![Fork](https://github.com/bingchilling01/masteruah/blob/main/capturas/fork.png "fork")
 - Y ya estaría en nuestro repositorio:
 ![Fork_ported](https://github.com/bingchilling01/masteruah/blob/main/capturas/19forkportado.png "fork_ported")
 ## _21. Hacer un pull request_
 - Para hacer un pull request aplicamos cambios en los archivos fuente de nuestro fork, hacemos clic en la pestaña 'Pull requests', luego en 'New request' y al final en 'Create Pull request', y tendremos que esperar a que el autor original acepte nuestros cambios
-![Pull_Request](https://github.com/bingchilling01/masteruah/blob/main/capturas/20pullrequest.png "Pull_request")
+- Pull request a Juan Manuel:
+![Pull_Request](https://github.com/bingchilling01/masteruah/blob/main/capturas/ramapullreq2.png "Pull_request")
+- Pull request a Rafael García:
+![Pull_Request](https://github.com/bingchilling01/masteruah/blob/main/capturas/ramapullreq.png "Pull_request")
+## _22. Gestionar pull requests
+- En los pull requests de nuestro repositorio podemos gestionarlos:
+![Gestion pull request](https://github.com/bingchilling01/masteruah/blob/main/capturas/gestpullreq.png "Gestion pull request")
+![Gestion pull request](https://github.com/bingchilling01/masteruah/blob/main/capturas/gestpullreq2.png "Gestion pull request")
