@@ -74,11 +74,22 @@ un archivo con la clave dentro
 - Por último se copiará esta clave a la configuración de nuestra cuenta de GitHub
 ![setClaveSSH](https://github.com/bingchilling01/masteruah/blob/main/capturas/11inputclave.png "setClaveSSH")
 ![showClaveSSH](https://github.com/bingchilling01/masteruah/blob/main/capturas/12getclave.png "showClaveSSH")
-## _14. Añadir colaboradores_
+## _14. Uso social de GitHub_
+- Seguir a compañeros
+![Follow](https://github.com/bingchilling01/masteruah/blob/main/capturas/13follow.png "Seguir a compañeros")
+- Dar estrella a proyectos
+![giveStar](https://github.com/bingchilling01/masteruah/blob/main/capturas/14star.png "Estrella")
+## _15. Tabla de los compañeros_
+|        NOMBRE          |                     GITHUB                         |
+|------------------------|----------------------------------------------------|
+| Javier Gómez 			 | [jalefrcracker](https://github.com/JLFcmd) 		  |
+| Alejandro Sánchez 	 | [AlexSancheez02](https://github.com/AlexSancheez02)|
+| Juan Manuel Porras 	 | [Juanma104](https://github.com/Juanma104) 		  |
+## _16. Añadir colaboradores_
 - Para añadir colaboradores entramos en los ajustes del repositorio 'masteruah', luego en 'Collaborators'
 y añadimos a los colaboradores que queramos
 ![Colab](https://github.com/bingchilling01/masteruah/blob/main/capturas/14colab.png "Colaboradores")
-## _15. Crear organización_
+## _17. Crear organización_
 - Para crear una organización, nos metemos en los ajustes de nuestra cuenta y luego en 'Organizations', nos creamos una
 y quedaría así:
 ![Organizacion](https://github.com/bingchilling01/masteruah/blob/main/capturas/15org.png "Organizacion")
