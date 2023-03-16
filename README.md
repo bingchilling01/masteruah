@@ -108,7 +108,7 @@ y quedaría así:
 ![Pull_Request](https://github.com/bingchilling01/masteruah/blob/main/capturas/ramapullreq2.png "Pull_request")
 - Pull request a Rafael García:
 ![Pull_Request](https://github.com/bingchilling01/masteruah/blob/main/capturas/ramapullreq.png "Pull_request")
-## _22. Gestionar pull requests
+## _22. Gestionar pull requests_
 - En los pull requests de nuestro repositorio podemos gestionarlos:
 ![Gestion pull request](https://github.com/bingchilling01/masteruah/blob/main/capturas/gestpullreq.png "Gestion pull request")
 ![Gestion pull request](https://github.com/bingchilling01/masteruah/blob/main/capturas/gestpullreq2.png "Gestion pull request")
