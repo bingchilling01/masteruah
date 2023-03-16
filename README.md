@@ -52,8 +52,10 @@ Después: \
 ![Troubleshoot](https://github.com/bingchilling01/masteruah/blob/main/capturas/6conflictosolucionado.png "Solucionado")
 - Ahora hacemos push
 ## _8. Crear Tag v0.2 y eliminar rama v0.2_
-- Creamos el tag v0.2 con 'git tag v0.2'
 - Eliminamos la rama v0.2 con 'git branch -d v0.2'
+- Y eliminamos la rama v0.2 remota con 'git push origin --delete v0.2'
+- Creamos el tag v0.2 con 'git tag v0.2'
+- Y hacemos push
 ## _10. Listar cambios_
 - Podemos ver todos los commits con 'git log --oneline'
 ![Log](https://github.com/bingchilling01/masteruah/blob/main/capturas/7log.png "Log")
@@ -72,3 +74,11 @@ un archivo con la clave dentro
 - Por último se copiará esta clave a la configuración de nuestra cuenta de GitHub
 ![setClaveSSH](https://github.com/bingchilling01/masteruah/blob/main/capturas/11inputclave.png "setClaveSSH")
 ![showClaveSSH](https://github.com/bingchilling01/masteruah/blob/main/capturas/12getclave.png "showClaveSSH")
+## _14. Añadir colaboradores_
+- Para añadir colaboradores entramos en los ajustes del repositorio 'masteruah', luego en 'Collaborators'
+y añadimos a los colaboradores que queramos
+![Colab](https://github.com/bingchilling01/masteruah/blob/main/capturas/14colab.png "Colaboradores")
+## _15. Crear organización_
+- Para crear una organización, nos metemos en los ajustes de nuestra cuenta y luego en 'Organizations', nos creamos una
+y quedaría así:
+![Organizacion](https://github.com/bingchilling01/masteruah/blob/main/capturas/15org.png "Organizacion")
