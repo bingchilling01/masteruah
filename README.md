@@ -113,4 +113,4 @@ y quedaría así:
 ## _22. Gestionar pull requests_
 - En los pull requests de nuestro repositorio podemos gestionarlos:
 ![Gestion pull request](https://github.com/bingchilling01/masteruah/blob/main/capturas/gestpullreq.png "Gestion pull request")
-![Gestion pull request](https://github.com/bingchilling01/masteruah/blob/main/capturas/gestpullreq2.png "Gestion pull request"
+![Gestion pull request](https://github.com/bingchilling01/masteruah/blob/main/capturas/gestpullreq2.png "Gestion pull request")
