@@ -82,11 +82,9 @@ un archivo con la clave dentro
 ## _15. Tabla de los compañeros_
 |        NOMBRE          |                     GITHUB                         |
 |------------------------|----------------------------------------------------|
-| Javier Gómez 			     | [jalefrcracker](https://github.com/JLFcmd) 		    |
-| Rafael García          | [Rafagarcia24](https://github.com/RafaGarcia24 )   |
-| Lydia Moya             | [lydiamoyar](https://github.com/lydiamoyar)        |
-| Alejandro Sánchez 	   | [AlexSancheez02](https://github.com/AlexSancheez02)|
-| Juan Manuel Porras 	   | [Juanma104](https://github.com/Juanma104) 		      |
+| Javier Gómez 			 | [jalefrcracker](https://github.com/JLFcmd) 		  |
+| Alejandro Sánchez 	 | [AlexSancheez02](https://github.com/AlexSancheez02)|
+| Juan Manuel Porras 	 | [Juanma104](https://github.com/Juanma104) 		  |
 ## _16. Añadir colaboradores_
 - Para añadir colaboradores entramos en los ajustes del repositorio 'masteruah', luego en 'Collaborators'
 y añadimos a los colaboradores que queramos
@@ -107,9 +105,9 @@ y quedaría así:
 ## _21. Hacer un pull request_
 - Para hacer un pull request aplicamos cambios en los archivos fuente de nuestro fork, hacemos clic en la pestaña 'Pull requests', luego en 'New request' y al final en 'Create Pull request', y tendremos que esperar a que el autor original acepte nuestros cambios
 - Pull request a Juan Manuel:
-![Pull_Request](https://github.com/bingchilling01/masteruah/blob/main/capturas/rama_pullreq2.png "Pull_request")
+![Pull_Request](https://github.com/bingchilling01/masteruah/blob/main/capturas/ramapullreq2.png "Pull_request")
 - Pull request a Rafael García:
-![Pull_Request](https://github.com/bingchilling01/masteruah/blob/main/capturas/rama_pullreq.png "Pull_request")
+![Pull_Request](https://github.com/bingchilling01/masteruah/blob/main/capturas/ramapullreq.png "Pull_request")
 ## _22. Gestionar pull requests_
 - En los pull requests de nuestro repositorio podemos gestionarlos:
 ![Gestion pull request](https://github.com/bingchilling01/masteruah/blob/main/capturas/gestpullreq.png "Gestion pull request")
